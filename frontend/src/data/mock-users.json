@@ -1,0 +1,178 @@
+[
+  {
+    "id": "u1",
+    "name": "Dhruv Kachwala",
+    "email": "admin@assetflow.com",
+    "role": "admin",
+    "departmentId": "d1",
+    "departmentName": "Information Technology",
+    "employeeId": "AF-EMP-001",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u2",
+    "name": "Aniket Kachadiya",
+    "email": "manager@assetflow.com",
+    "role": "asset-manager",
+    "departmentId": "d1",
+    "departmentName": "Information Technology",
+    "employeeId": "AF-EMP-002",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u3",
+    "name": "Aayush Dobariya",
+    "email": "head@assetflow.com",
+    "role": "department-head",
+    "departmentId": "d1",
+    "departmentName": "Information Technology",
+    "employeeId": "AF-EMP-003",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u4",
+    "name": "Employee User",
+    "email": "employee@assetflow.com",
+    "role": "employee",
+    "departmentId": "d4",
+    "departmentName": "Operations",
+    "employeeId": "AF-EMP-004",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u5",
+    "name": "Rajesh Kumar",
+    "email": "rajesh.kumar@assetflow.com",
+    "role": "department-head",
+    "departmentId": "d2",
+    "departmentName": "Human Resources",
+    "employeeId": "AF-EMP-005",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u6",
+    "name": "Priyanka Sharma",
+    "email": "priyanka.sharma@assetflow.com",
+    "role": "department-head",
+    "departmentId": "d3",
+    "departmentName": "Finance",
+    "employeeId": "AF-EMP-006",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u7",
+    "name": "Amit Patel",
+    "email": "amit.patel@assetflow.com",
+    "role": "employee",
+    "departmentId": "d1",
+    "departmentName": "Information Technology",
+    "employeeId": "AF-EMP-007",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u8",
+    "name": "Sunita Rao",
+    "email": "sunita.rao@assetflow.com",
+    "role": "employee",
+    "departmentId": "d2",
+    "departmentName": "Human Resources",
+    "employeeId": "AF-EMP-008",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u9",
+    "name": "Vikram Malhotra",
+    "email": "vikram.malhotra@assetflow.com",
+    "role": "employee",
+    "departmentId": "d3",
+    "departmentName": "Finance",
+    "employeeId": "AF-EMP-009",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u10",
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@assetflow.com",
+    "role": "employee",
+    "departmentId": "d4",
+    "departmentName": "Operations",
+    "employeeId": "AF-EMP-010",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u11",
+    "name": "Sanjay Dutt",
+    "email": "sanjay.dutt@assetflow.com",
+    "role": "employee",
+    "departmentId": "d5",
+    "departmentName": "Administration",
+    "employeeId": "AF-EMP-011",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u12",
+    "name": "Neha Gupta",
+    "email": "neha.gupta@assetflow.com",
+    "role": "employee",
+    "departmentId": "d6",
+    "departmentName": "Sales and Marketing",
+    "employeeId": "AF-EMP-012",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u13",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@assetflow.com",
+    "role": "employee",
+    "departmentId": "d1",
+    "departmentName": "Information Technology",
+    "employeeId": "AF-EMP-013",
+    "status": "inactive",
+    "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u14",
+    "name": "Kavita Krishnan",
+    "email": "kavita.krishnan@assetflow.com",
+    "role": "employee",
+    "departmentId": "d4",
+    "departmentName": "Operations",
+    "employeeId": "AF-EMP-014",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1554151228-14d9def656e4?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u15",
+    "name": "Deepa Joshi",
+    "email": "deepa.joshi@assetflow.com",
+    "role": "employee",
+    "departmentId": "d6",
+    "departmentName": "Sales and Marketing",
+    "employeeId": "AF-EMP-015",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1548142813-c348350df52b?w=100&h=100&fit=crop&crop=faces"
+  },
+  {
+    "id": "u16",
+    "name": "Harish Kumar",
+    "email": "harish.kumar@assetflow.com",
+    "role": "employee",
+    "departmentId": "d5",
+    "departmentName": "Administration",
+    "employeeId": "AF-EMP-016",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?w=100&h=100&fit=crop&crop=faces"
+  }
+]

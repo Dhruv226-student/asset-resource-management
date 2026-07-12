@@ -1,0 +1,58 @@
+{
+  "kpis": {
+    "totalAssets": 31,
+    "availableAssets": 10,
+    "allocatedAssets": 16,
+    "underMaintenance": 1,
+    "activeBookings": 2,
+    "pendingTransfers": 1,
+    "upcomingReturns": 2,
+    "overdueReturns": 2
+  },
+  "assetStatusDistribution": [
+    { "name": "Available", "value": 10, "color": "#10B981" },
+    { "name": "Allocated", "value": 16, "color": "#8B5CF6" },
+    { "name": "Under Maintenance", "value": 1, "color": "#F59E0B" },
+    { "name": "Lost", "value": 1, "color": "#EF4444" },
+    { "name": "Retired", "value": 1, "color": "#6B7280" },
+    { "name": "Reserved", "value": 2, "color": "#3B82F6" }
+  ],
+  "monthlyAllocations": [
+    { "month": "Jan", "allocations": 4, "returns": 2 },
+    { "month": "Feb", "allocations": 6, "returns": 3 },
+    { "month": "Mar", "allocations": 12, "returns": 5 },
+    { "month": "Apr", "allocations": 8, "returns": 4 },
+    { "month": "May", "allocations": 5, "returns": 3 },
+    { "month": "Jun", "allocations": 9, "returns": 6 },
+    { "month": "Jul", "allocations": 11, "returns": 8 }
+  ],
+  "resourceBookingTrends": [
+    { "day": "Mon", "bookings": 3 },
+    { "day": "Tue", "bookings": 5 },
+    { "day": "Wed", "bookings": 4 },
+    { "day": "Thu", "bookings": 8 },
+    { "day": "Fri", "bookings": 6 },
+    { "day": "Sat", "bookings": 2 },
+    { "day": "Sun", "bookings": 1 }
+  ],
+  "maintenanceByPriority": [
+    { "priority": "Critical", "count": 2, "color": "#EF4444" },
+    { "priority": "High", "count": 2, "color": "#F97316" },
+    { "priority": "Medium", "count": 3, "color": "#3B82F6" },
+    { "priority": "Low", "count": 1, "color": "#10B981" }
+  ],
+  "departmentAllocations": [
+    { "department": "IT", "count": 12 },
+    { "department": "HR", "count": 2 },
+    { "department": "Finance", "count": 3 },
+    { "department": "Operations", "count": 2 },
+    { "department": "Admin", "count": 1 },
+    { "department": "Sales", "count": 1 }
+  ],
+  "frequentlyUsedAssets": [
+    { "name": "Toyota Innova Crysta 2.4", "bookings": 24, "type": "Vehicle" },
+    { "name": "Conference Room A", "bookings": 42, "type": "Room" },
+    { "name": "Epson EB-FH06 Projector", "bookings": 18, "type": "Equipment" },
+    { "name": "Canon EOS 90D Camera", "bookings": 15, "type": "Equipment" }
+  ]
+}

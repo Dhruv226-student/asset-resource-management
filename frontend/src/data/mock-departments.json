@@ -1,0 +1,68 @@
+[
+  {
+    "id": "d1",
+    "name": "Information Technology",
+    "code": "DEPT-IT",
+    "head": "Aayush Dobariya",
+    "parentDepartment": "",
+    "employeeCount": 5,
+    "assetCount": 18,
+    "status": "active",
+    "description": "Handles all technology infrastructure, software development, support, and IT assets."
+  },
+  {
+    "id": "d2",
+    "name": "Human Resources",
+    "code": "DEPT-HR",
+    "head": "Rajesh Kumar",
+    "parentDepartment": "",
+    "employeeCount": 2,
+    "assetCount": 4,
+    "status": "active",
+    "description": "Manages employee relations, recruiting, benefits, and workplace culture."
+  },
+  {
+    "id": "d3",
+    "name": "Finance",
+    "code": "DEPT-FIN",
+    "head": "Priyanka Sharma",
+    "parentDepartment": "",
+    "employeeCount": 2,
+    "assetCount": 3,
+    "status": "active",
+    "description": "Responsible for financial planning, bookkeeping, audits, and budgeting."
+  },
+  {
+    "id": "d4",
+    "name": "Operations",
+    "code": "DEPT-OPS",
+    "head": "Sneha Reddy",
+    "parentDepartment": "",
+    "employeeCount": 3,
+    "assetCount": 8,
+    "status": "active",
+    "description": "Oversees daily business operations, logistics, and company vehicle allocation."
+  },
+  {
+    "id": "d5",
+    "name": "Administration",
+    "code": "DEPT-ADMIN",
+    "head": "Sanjay Dutt",
+    "parentDepartment": "",
+    "employeeCount": 2,
+    "assetCount": 5,
+    "status": "active",
+    "description": "Coordinates workspace management, travel, security, and office supplies."
+  },
+  {
+    "id": "d6",
+    "name": "Sales and Marketing",
+    "code": "DEPT-SALES",
+    "head": "Neha Gupta",
+    "parentDepartment": "",
+    "employeeCount": 2,
+    "assetCount": 2,
+    "status": "active",
+    "description": "Drives brand awareness, outreach, sales pipelines, and customer acquisition."
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "n1",
+    "type": "asset-assigned",
+    "title": "New Asset Assigned",
+    "message": "Dell Latitude Laptop AF-0001 has been assigned to you. Expected return date is 2026-03-15.",
+    "date": "2026-07-12T09:30:00Z",
+    "isRead": false,
+    "link": "/assets/a1"
+  },
+  {
+    "id": "n2",
+    "type": "transfer-requested",
+    "title": "Transfer Requested",
+    "message": "Neha Gupta has requested a transfer for Epson Projector AF-0003.",
+    "date": "2026-07-10T14:20:00Z",
+    "isRead": false,
+    "link": "/allocations"
+  },
+  {
+    "id": "n3",
+    "type": "transfer-approved",
+    "title": "Transfer Approved",
+    "message": "Your transfer request for Dell Latitude Laptop AF-0001 to Rohan Mehta has been approved.",
+    "date": "2026-07-06T11:00:00Z",
+    "isRead": true,
+    "link": "/allocations"
+  },
+  {
+    "id": "n4",
+    "type": "transfer-rejected",
+    "title": "Transfer Request Rejected",
+    "message": "Transfer request for Toyota Innova AF-0005 has been rejected by Operations.",
+    "date": "2026-07-08T16:45:00Z",
+    "isRead": false,
+    "link": "/allocations"
+  },
+  {
+    "id": "n5",
+    "type": "overdue-return",
+    "title": "Overdue Asset Return",
+    "message": "Dell Latitude Laptop AF-0012 is overdue. Expected return date was 2026-03-18.",
+    "date": "2026-07-11T08:00:00Z",
+    "isRead": false,
+    "link": "/assets/a12"
+  },
+  {
+    "id": "n6",
+    "type": "booking-confirmed",
+    "title": "Resource Booking Confirmed",
+    "message": "Your booking for Conference Room A on 2026-07-12 from 11:00 AM to 1:00 PM is confirmed.",
+    "date": "2026-07-11T12:30:00Z",
+    "isRead": true,
+    "link": "/bookings"
+  },
+  {
+    "id": "n7",
+    "type": "booking-cancelled",
+    "title": "Resource Booking Cancelled",
+    "message": "Sanjay Dutt cancelled the booking for Projector 01 on 2026-07-12.",
+    "date": "2026-07-12T08:15:00Z",
+    "isRead": false,
+    "link": "/bookings"
+  },
+  {
+    "id": "n8",
+    "type": "maintenance-approved",
+    "title": "Maintenance Request Approved",
+    "message": "Maintenance request MR-1004 for Toyota Innova AF-0005 has been approved. Tech: Toyota Service.",
+    "date": "2026-07-07T10:10:00Z",
+    "isRead": true,
+    "link": "/maintenance"
+  },
+  {
+    "id": "n9",
+    "type": "maintenance-rejected",
+    "title": "Maintenance Request Rejected",
+    "message": "Maintenance request MR-1005 for Ergonomic Chair AF-0004 has been rejected.",
+    "date": "2026-07-03T11:00:00Z",
+    "isRead": true,
+    "link": "/maintenance"
+  },
+  {
+    "id": "n10",
+    "type": "maintenance-resolved",
+    "title": "Maintenance Completed",
+    "message": "AC Unit AF-0029 compressor issue has been resolved. Total repair cost: 7,800 INR.",
+    "date": "2026-07-08T15:30:00Z",
+    "isRead": false,
+    "link": "/maintenance"
+  },
+  {
+    "id": "n11",
+    "type": "audit-discrepancy",
+    "title": "Audit Discrepancy Found",
+    "message": "Cisco RV340 Router AF-0027 was marked as MISSING during Mid-Year Branch Verification.",
+    "date": "2026-07-09T17:00:00Z",
+    "isRead": false,
+    "link": "/audits/aud2"
+  },
+  {
+    "id": "n12",
+    "type": "booking-reminder",
+    "title": "Booking Reminder",
+    "message": "Reminder: Your booking for Training Hall is scheduled for 2026-07-14 at 2:00 PM.",
+    "date": "2026-07-12T09:00:00Z",
+    "isRead": false,
+    "link": "/bookings"
+  },
+  {
+    "id": "n13",
+    "type": "asset-assigned",
+    "title": "Adobe CC Subscription Allocated",
+    "message": "Adobe Creative Cloud License has been assigned to you by IT.",
+    "date": "2025-06-02T10:00:00Z",
+    "isRead": true,
+    "link": "/assets/a30"
+  },
+  {
+    "id": "n14",
+    "type": "return-due",
+    "title": "Asset Return Due Soon",
+    "message": "Dell Latitude Laptop AF-0001 is due for return on 2026-03-15.",
+    "date": "2026-03-10T09:00:00Z",
+    "isRead": true,
+    "link": "/assets/a1"
+  },
+  {
+    "id": "n15",
+    "type": "audit-discrepancy",
+    "title": "Audit Damaged Asset Flagged",
+    "message": "Toyota Innova AF-0025 was marked as DAMAGED with notes 'Rear bumper scratch, low brake fluid'.",
+    "date": "2026-07-09T17:15:00Z",
+    "isRead": false,
+    "link": "/audits/aud2"
+  }
+]

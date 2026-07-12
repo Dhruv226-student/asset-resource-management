@@ -1,0 +1,233 @@
+[
+  {
+    "id": "act1",
+    "user": "Dhruv Kachwala",
+    "role": "admin",
+    "action": "Create Category",
+    "module": "Organization",
+    "record": "Networking Devices (CAT-NET)",
+    "date": "2025-03-01T10:15:00Z",
+    "ipAddress": "192.168.1.10",
+    "details": "Admin created the 'Networking Devices' asset category with 4 custom fields."
+  },
+  {
+    "id": "act2",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Register Asset",
+    "module": "Assets",
+    "record": "Cisco Catalyst Switch (AF-0007)",
+    "date": "2025-03-01T11:30:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Asset Manager registered Switch AF-0007 into inventory. Supplier: Cisco Systems India."
+  },
+  {
+    "id": "act3",
+    "user": "Aayush Dobariya",
+    "role": "department-head",
+    "action": "Book Resource",
+    "module": "Resource Bookings",
+    "record": "Conference Room A",
+    "date": "2026-07-12T08:00:00Z",
+    "ipAddress": "192.168.1.18",
+    "details": "Department Head booked Conference Room A for 'Quarterly IT Review'."
+  },
+  {
+    "id": "act4",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Approve Maintenance",
+    "module": "Maintenance",
+    "record": "Toyota Innova Crysta (AF-0005) - MR-1004",
+    "date": "2026-07-07T10:10:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Asset Manager approved maintenance request MR-1004. Technician: Toyota Service Center."
+  },
+  {
+    "id": "act5",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Resolve Maintenance",
+    "module": "Maintenance",
+    "record": "Daikin AC Unit 02 (AF-0029) - MR-1003",
+    "date": "2026-07-08T15:30:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Asset Manager marked MR-1003 as resolved. Repair cost: 7,800 INR."
+  },
+  {
+    "id": "act6",
+    "user": "Sneha Reddy",
+    "role": "department-head",
+    "action": "Approve Transfer",
+    "module": "Allocations",
+    "record": "Canon EOS DSLR (AF-0006) - TR-1003",
+    "date": "2026-07-02T16:00:00Z",
+    "ipAddress": "192.168.1.55",
+    "details": "Department Head approved the transfer of Camera AF-0006 from Sales to Human Resources."
+  },
+  {
+    "id": "act7",
+    "user": "Amit Patel",
+    "role": "employee",
+    "action": "Raise Maintenance Request",
+    "module": "Maintenance",
+    "record": "Dell Latitude Laptop (AF-0001) - MR-1002",
+    "date": "2026-07-12T09:15:00Z",
+    "ipAddress": "10.0.0.12",
+    "details": "Employee raised a maintenance request for battery overheating issues."
+  },
+  {
+    "id": "act8",
+    "user": "Neha Gupta",
+    "role": "department-head",
+    "action": "Create Transfer Request",
+    "module": "Allocations",
+    "record": "Epson Projector (AF-0003) - TR-1001",
+    "date": "2026-07-10T14:20:00Z",
+    "ipAddress": "192.168.1.33",
+    "details": "Department Head requested transfer of projector from Administration to Sales and Marketing."
+  },
+  {
+    "id": "act9",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Mark Asset Missing",
+    "module": "Audits",
+    "record": "Cisco RV340 Router (AF-0027) - AUD-002",
+    "date": "2026-07-09T17:00:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Auditor marked Cisco Router AF-0027 as 'Missing' during physical branch verification."
+  },
+  {
+    "id": "act10",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Mark Asset Damaged",
+    "module": "Audits",
+    "record": "Toyota Innova (AF-0025) - AUD-002",
+    "date": "2026-07-09T17:15:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Auditor marked Toyota Innova AF-0025 as 'Damaged' with bumper scratch details."
+  },
+  {
+    "id": "act11",
+    "user": "Dhruv Kachwala",
+    "role": "admin",
+    "action": "Assign Role",
+    "module": "Organization",
+    "record": "Employee User (AF-EMP-004)",
+    "date": "2026-07-01T10:00:00Z",
+    "ipAddress": "192.168.1.10",
+    "details": "Admin updated role for employee ID AF-EMP-004 to Employee."
+  },
+  {
+    "id": "act12",
+    "user": "Sanjay Dutt",
+    "role": "employee",
+    "action": "Cancel Booking",
+    "module": "Resource Bookings",
+    "record": "Projector 01 - B-1007",
+    "date": "2026-07-12T08:15:00Z",
+    "ipAddress": "192.168.1.66",
+    "details": "Employee cancelled booking for Projector 01 due to offsite venue cancellations."
+  },
+  {
+    "id": "act13",
+    "user": "Dhruv Kachwala",
+    "role": "admin",
+    "action": "Create Department",
+    "module": "Organization",
+    "record": "Sales and Marketing (DEPT-SALES)",
+    "date": "2024-03-01T09:00:00Z",
+    "ipAddress": "192.168.1.10",
+    "details": "Admin created the Sales and Marketing department with head Neha Gupta."
+  },
+  {
+    "id": "act14",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Create Allocation",
+    "module": "Allocations",
+    "record": "Adobe CC License - AF-0030",
+    "date": "2025-06-02T10:00:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Asset Manager allocated Adobe CC License to Deepa Joshi."
+  },
+  {
+    "id": "act15",
+    "user": "Dhruv Kachwala",
+    "role": "admin",
+    "action": "Create Audit Cycle",
+    "module": "Audits",
+    "record": "Mid-Year Branch Verification (aud2)",
+    "date": "2026-07-04T15:00:00Z",
+    "ipAddress": "192.168.1.10",
+    "details": "Admin created Audit Cycle 'Mid-Year Branch Asset Verification' starting on 2026-07-05."
+  },
+  {
+    "id": "act16",
+    "user": "Sunita Rao",
+    "role": "employee",
+    "action": "Raise Return Request",
+    "module": "Allocations",
+    "record": "Dell Laptop AF-0001",
+    "date": "2026-07-11T12:00:00Z",
+    "ipAddress": "192.168.1.42",
+    "details": "Employee raised return request for Dell Laptop."
+  },
+  {
+    "id": "act17",
+    "user": "Amit Patel",
+    "role": "employee",
+    "action": "Raise Return Request",
+    "module": "Allocations",
+    "record": "Dell Laptop AF-0001",
+    "date": "2026-07-11T12:30:00Z",
+    "ipAddress": "192.168.1.43",
+    "details": "Employee raised return request for Dell Laptop."
+  },
+  {
+    "id": "act18",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Allocate Asset",
+    "module": "Allocations",
+    "record": "MacBook Pro 14\" - AF-0010",
+    "date": "2023-09-06T11:00:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Asset Manager allocated MacBook Pro to Aayush Dobariya."
+  },
+  {
+    "id": "act19",
+    "user": "Rajesh Kumar",
+    "role": "department-head",
+    "action": "Book Resource",
+    "module": "Resource Bookings",
+    "record": "Conference Room A",
+    "date": "2026-07-11T12:30:00Z",
+    "ipAddress": "192.168.1.12",
+    "details": "Department Head booked Conference Room A for 'HR Induction Session'."
+  },
+  {
+    "id": "act20",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Update Asset Condition",
+    "module": "Assets",
+    "record": "Mantra Biometric Device (AF-0008)",
+    "date": "2026-07-02T10:45:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Asset Manager updated status to 'under-maintenance' and condition to 'fair'."
+  },
+  {
+    "id": "act21",
+    "user": "Aniket Kachadiya",
+    "role": "asset-manager",
+    "action": "Reject Transfer Request",
+    "module": "Allocations",
+    "record": "Toyota Innova (AF-0005) - TR-1004",
+    "date": "2026-07-08T16:45:00Z",
+    "ipAddress": "192.168.1.24",
+    "details": "Asset Manager rejected transfer request for Toyota Innova from Operations to Finance."
+  }
+]

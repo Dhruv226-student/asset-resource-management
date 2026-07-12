@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rr1",
+    "assetId": "a1",
+    "assetName": "Dell Latitude 5420 Laptop",
+    "assetTag": "AF-0001",
+    "requestedBy": "Amit Patel",
+    "requestedById": "u7",
+    "returnDate": "2026-07-11",
+    "conditionAtReturn": "good",
+    "checkInNotes": "Returning laptop to upgrade to MacBook.",
+    "status": "requested"
+  },
+  {
+    "id": "rr2",
+    "assetId": "a12",
+    "assetName": "Dell Latitude 5420 Laptop",
+    "assetTag": "AF-0012",
+    "requestedBy": "Employee User",
+    "requestedById": "u4",
+    "returnDate": "2026-07-09",
+    "conditionAtReturn": "good",
+    "checkInNotes": "Project finished. Returning device.",
+    "status": "completed"
+  }
+]

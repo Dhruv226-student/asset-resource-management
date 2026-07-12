@@ -1,0 +1,90 @@
+[
+  {
+    "id": "c1",
+    "name": "Electronics",
+    "code": "CAT-ELEC",
+    "assetCount": 14,
+    "customFields": ["Processor", "RAM", "Storage", "OS"],
+    "status": "active",
+    "description": "Laptops, tablets, monitors, and client machines.",
+    "warrantyTrackingEnabled": true,
+    "maintenanceInterval": 180
+  },
+  {
+    "id": "c2",
+    "name": "Furniture",
+    "code": "CAT-FURN",
+    "assetCount": 10,
+    "customFields": ["Material", "Dimensions", "Ergonomic Certified"],
+    "status": "active",
+    "description": "Ergonomic chairs, desks, file cabinets, and conference tables.",
+    "warrantyTrackingEnabled": false,
+    "maintenanceInterval": 365
+  },
+  {
+    "id": "c3",
+    "name": "Vehicles",
+    "code": "CAT-VEH",
+    "assetCount": 3,
+    "customFields": ["Engine Number", "Chassis Number", "Fuel Type", "Insurance Expiry"],
+    "status": "active",
+    "description": "Company cars, delivery vans, and pool vehicles.",
+    "warrantyTrackingEnabled": true,
+    "maintenanceInterval": 90
+  },
+  {
+    "id": "c4",
+    "name": "Machinery",
+    "code": "CAT-MACH",
+    "assetCount": 2,
+    "customFields": ["Power Rating", "Phase", "Fuel capacity"],
+    "status": "active",
+    "description": "Diesel generators, large air conditioning units, and print shop presses.",
+    "warrantyTrackingEnabled": true,
+    "maintenanceInterval": 60
+  },
+  {
+    "id": "c5",
+    "name": "Office Equipment",
+    "code": "CAT-OFFEQ",
+    "assetCount": 6,
+    "customFields": ["Resolution", "Ports", "Power Consumption"],
+    "status": "active",
+    "description": "Projectors, biometric devices, whiteboards, and shredders.",
+    "warrantyTrackingEnabled": true,
+    "maintenanceInterval": 180
+  },
+  {
+    "id": "c6",
+    "name": "Safety Equipment",
+    "code": "CAT-SAFE",
+    "assetCount": 4,
+    "customFields": ["Expiry Date", "Class Type"],
+    "status": "active",
+    "description": "Fire extinguishers, safety harnesses, first aid cabinets, and hard hats.",
+    "warrantyTrackingEnabled": false,
+    "maintenanceInterval": 90
+  },
+  {
+    "id": "c7",
+    "name": "Networking Devices",
+    "code": "CAT-NET",
+    "assetCount": 5,
+    "customFields": ["IP Address", "MAC Address", "Ports Count", "Firmware Version"],
+    "status": "active",
+    "description": "Switches, routers, firewalls, and access points.",
+    "warrantyTrackingEnabled": true,
+    "maintenanceInterval": 180
+  },
+  {
+    "id": "c8",
+    "name": "Software Licenses",
+    "code": "CAT-SOFT",
+    "assetCount": 2,
+    "customFields": ["License Key", "Renewal Date", "Seats Count"],
+    "status": "active",
+    "description": "Enterprise software subscriptions and seat licenses.",
+    "warrantyTrackingEnabled": true,
+    "maintenanceInterval": 0
+  }
+]

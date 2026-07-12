@@ -1,0 +1,44 @@
+[
+  {
+    "id": "res1",
+    "name": "Conference Room A",
+    "type": "Conference Room",
+    "description": "12-seater room with projector, whiteboard, and video conferencing kit.",
+    "status": "available"
+  },
+  {
+    "id": "res2",
+    "name": "Conference Room B",
+    "type": "Conference Room",
+    "description": "6-seater room with LED TV monitor and glass whiteboard.",
+    "status": "available"
+  },
+  {
+    "id": "res3",
+    "name": "Company Vehicle 01 (Innova)",
+    "type": "Vehicle",
+    "description": "Toyota Innova Crysta GJ-01-XX-9876 for corporate client travel.",
+    "status": "available"
+  },
+  {
+    "id": "res4",
+    "name": "Projector 01 (Epson)",
+    "type": "Equipment",
+    "description": "Portable Epson EB-FH06 projector for offsite workshops.",
+    "status": "available"
+  },
+  {
+    "id": "res5",
+    "name": "Training Hall",
+    "type": "Conference Room",
+    "description": "Large hall with 50 seats, podium, PA sound system, and dual projectors.",
+    "status": "available"
+  },
+  {
+    "id": "res6",
+    "name": "Camera Kit (Canon 90D)",
+    "type": "Equipment",
+    "description": "Canon DSLR Camera with standard lenses, 2 batteries, and tripod.",
+    "status": "available"
+  }
+]

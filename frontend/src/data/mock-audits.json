@@ -1,0 +1,151 @@
+{
+  "cycles": [
+    {
+      "id": "aud1",
+      "name": "Q2 IT Asset Audit",
+      "scopeType": "department",
+      "department": "Information Technology",
+      "location": "Head Office",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-10",
+      "auditors": ["Dhruv Kachwala", "Aniket Kachadiya"],
+      "progress": 100,
+      "status": "completed",
+      "notes": "Verify all IT developer laptops and networking gear in Ahmedabad HQ."
+    },
+    {
+      "id": "aud2",
+      "name": "Mid-Year Branch Asset Verification",
+      "scopeType": "location",
+      "location": "Ahmedabad Branch",
+      "startDate": "2026-07-05",
+      "endDate": "2026-07-20",
+      "auditors": ["Aniket Kachadiya"],
+      "progress": 60,
+      "status": "active",
+      "notes": "Physical audit of electronics, air conditioning, and furniture at the Ahmedabad Branch."
+    },
+    {
+      "id": "aud3",
+      "name": "Annual Furniture Inventory Audit",
+      "scopeType": "all",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-15",
+      "auditors": ["Sanjay Dutt"],
+      "progress": 0,
+      "status": "upcoming",
+      "notes": "Global check of chairs, tables, and physical storage cabinets across all office locations."
+    },
+    {
+      "id": "aud4",
+      "name": "Q3 Operations Audit",
+      "scopeType": "department",
+      "department": "Operations",
+      "location": "Surat Branch",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-10",
+      "auditors": ["Sneha Reddy", "Aniket Kachadiya"],
+      "progress": 0,
+      "status": "upcoming",
+      "notes": "Inspection of company vehicle fleet and operational logistics gear."
+    }
+  ],
+  "items": [
+    {
+      "id": "ai1",
+      "auditCycleId": "aud2",
+      "assetId": "a10",
+      "assetName": "MacBook Pro 14\" M2",
+      "assetTag": "AF-0010",
+      "expectedLocation": "Ahmedabad Branch",
+      "actualLocation": "Ahmedabad Branch",
+      "expectedHolder": "Aayush Dobariya",
+      "status": "verified",
+      "auditorNotes": "Serial number matched. Condition: Good."
+    },
+    {
+      "id": "ai2",
+      "auditCycleId": "aud2",
+      "assetId": "a9",
+      "assetName": "Daikin 1.5 Ton AC Unit (Unit 02)",
+      "assetTag": "AF-0009",
+      "expectedLocation": "Ahmedabad Branch",
+      "actualLocation": "Ahmedabad Branch",
+      "expectedHolder": "Administration",
+      "status": "verified",
+      "auditorNotes": "Cooling functional. Small cosmetic dent on internal cover panel."
+    },
+    {
+      "id": "ai3",
+      "auditCycleId": "aud2",
+      "assetId": "a16",
+      "assetName": "Dell Latitude 5420 Laptop",
+      "assetTag": "AF-0016",
+      "expectedLocation": "Ahmedabad Branch",
+      "actualLocation": "Ahmedabad Branch",
+      "expectedHolder": "Sneha Reddy",
+      "status": "verified",
+      "auditorNotes": "Checked screen and system health. Checked."
+    },
+    {
+      "id": "ai4",
+      "auditCycleId": "aud2",
+      "assetId": "a18",
+      "assetName": "Dell Latitude 5420 Laptop",
+      "assetTag": "AF-0018",
+      "expectedLocation": "Ahmedabad Branch",
+      "actualLocation": "",
+      "expectedHolder": "Neha Gupta",
+      "status": "pending",
+      "auditorNotes": ""
+    },
+    {
+      "id": "ai5",
+      "auditCycleId": "aud2",
+      "assetId": "a25",
+      "assetName": "Toyota Innova Crysta 2.4 (Vehicle 02)",
+      "assetTag": "AF-0025",
+      "expectedLocation": "Ahmedabad Branch",
+      "actualLocation": "Ahmedabad Branch",
+      "expectedHolder": "Operations",
+      "status": "damaged",
+      "auditorNotes": "Rear bumper has scratch from local parking. Brake fluid level low."
+    },
+    {
+      "id": "ai6",
+      "auditCycleId": "aud2",
+      "assetId": "a27",
+      "assetName": "Cisco RV340 Router",
+      "assetTag": "AF-0027",
+      "expectedLocation": "Ahmedabad Branch",
+      "actualLocation": "",
+      "expectedHolder": "Information Technology",
+      "status": "missing",
+      "auditorNotes": "Physical device not in Ahmedabad server rack. Needs investigation."
+    },
+    {
+      "id": "ai7",
+      "auditCycleId": "aud2",
+      "assetId": "a28",
+      "assetName": "Mantra MFS100 Biometric Device (Device 02)",
+      "assetTag": "AF-0028",
+      "expectedLocation": "Ahmedabad Branch",
+      "actualLocation": "",
+      "expectedHolder": "Administration",
+      "status": "pending",
+      "auditorNotes": ""
+    },
+    {
+      "id": "ai8",
+      "auditCycleId": "aud2",
+      "assetId": "a29",
+      "assetName": "Daikin 1.5 Ton AC Unit (Unit 02)",
+      "assetTag": "AF-0029",
+      "expectedLocation": "Ahmedabad Branch",
+      "actualLocation": "",
+      "expectedHolder": "Administration",
+      "status": "pending",
+      "auditorNotes": ""
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "tr1",
+    "assetId": "a3",
+    "assetName": "Epson EB-FH06 Projector",
+    "assetTag": "AF-0003",
+    "currentHolder": "Administration",
+    "requestedHolder": "Sales and Marketing",
+    "requestedHolderId": "u12",
+    "requestedBy": "Neha Gupta",
+    "requestedById": "u12",
+    "requestDate": "2026-07-10",
+    "reason": "Need Projector for Sales & Marketing presentation in Conference Room B for 2 weeks.",
+    "status": "requested"
+  },
+  {
+    "id": "tr2",
+    "assetId": "a1",
+    "assetName": "Dell Latitude 5420 Laptop",
+    "assetTag": "AF-0001",
+    "currentHolder": "Amit Patel",
+    "requestedHolder": "Rohan Mehta",
+    "requestedHolderId": "u13",
+    "requestedBy": "Aayush Dobariya",
+    "requestedById": "u3",
+    "requestDate": "2026-07-05",
+    "reason": "Transferring hardware to incoming developer Rohan.",
+    "status": "approved"
+  },
+  {
+    "id": "tr3",
+    "assetId": "a6",
+    "assetName": "Canon EOS 90D DSLR Camera",
+    "assetTag": "AF-0006",
+    "currentHolder": "Sales and Marketing",
+    "requestedHolder": "Human Resources",
+    "requestedHolderId": "u8",
+    "requestedBy": "Sunita Rao",
+    "requestedById": "u8",
+    "requestDate": "2026-07-02",
+    "reason": "Need high quality camera for company induction video recording.",
+    "status": "completed"
+  },
+  {
+    "id": "tr4",
+    "assetId": "a5",
+    "assetName": "Toyota Innova Crysta 2.4",
+    "assetTag": "AF-0005",
+    "currentHolder": "Operations",
+    "requestedHolder": "Finance",
+    "requestedHolderId": "u9",
+    "requestedBy": "Vikram Malhotra",
+    "requestedById": "u9",
+    "requestDate": "2026-07-08",
+    "reason": "Requested vehicle for bank audit visits.",
+    "status": "rejected"
+  }
+]
